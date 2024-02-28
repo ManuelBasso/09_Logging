@@ -1,0 +1,12 @@
+spring:
+  output:
+    ansi:
+      enabled: ALWAYS
+myCustomVarTree:
+  num1: 2
+  num2: 8
+logging:
+  level:
+    root: INFO
+    co.example.services: DEBUG
+
